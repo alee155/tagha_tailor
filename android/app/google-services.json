@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "344841297113",
+    "project_id": "tagha-dd20c",
+    "storage_bucket": "tagha-dd20c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344841297113:android:cbde9ed7fae3d8facd72c8",
+        "android_client_info": {
+          "package_name": "com.example.tagah"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHb-idY3VCQFt1IDGTZsp4NQi-GiPWcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344841297113:android:cf5f0aa3edb8ce64cd72c8",
+        "android_client_info": {
+          "package_name": "com.example.tagha_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHb-idY3VCQFt1IDGTZsp4NQi-GiPWcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344841297113:android:46009afc8e152177cd72c8",
+        "android_client_info": {
+          "package_name": "com.tagha_tailor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHb-idY3VCQFt1IDGTZsp4NQi-GiPWcqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
